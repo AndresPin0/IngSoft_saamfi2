@@ -1,5 +1,5 @@
-package co.edu.icesi.dev.saamfi.logic.medved;
-
-public class prueba {
-
-}
+//package co.edu.icesi.dev.saamfi.logic.medved;
+//
+//public class prueba {
+//
+//}
